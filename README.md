@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I am Leone Munyao
+<h3 align="center">A passionate Computer Science Student aspiring to become a Software Engineer</h3>
+- 🔭 I’m currently learning **C Programming**
 
 <!--
 **leonemunyao/leonemunyao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
