@@ -1,10 +1,7 @@
 ### Hi there 👋 I am Leone Munyao
-<h3>A passionate Computer Science Student aspiring to become a Software Engineer 📝📚🖋</h3>
-<h4> - 🌱 I’m currently learning C Programming ✨</h4>
-
-<h4> - ⚡ Fun fact:  Am a PES Champion 😅</h4>
-
----
+### A passionate Computer Science Student aspiring to become a Software Engineer 📝📚🖋
+#### 🌱 I’m currently learning C Programming ✨
+#### ⚡ Fun fact:  Am a PES Champion 😅
 
 ### 🧰 Languages and Tools
 
