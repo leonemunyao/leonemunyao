@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello, I'm Leone Munyao, a passionate and enthusiastic Software Engineering student.<br>🎓 I'm currently pursuing a Bachelor's degree in Statistics and Computer Science.<br>🥇 My goal is to leverage my technical skills to create innovative software solutions that improve people's lives.<br><br>🚀 Thank you for visiting my GitHub profile, and I look forward to exploring the limitless possibilities of technology together!<br>
+👋 Hello, I'm Leone Munyao, a passionate and enthusiastic Software Engineering student.<br>🎓 I'm currently pursuing a Bachelor's degree in Statistics and Computer Science.<br>🥇 My goal is to leverage my technical skills to create innovative software solutions that improve people's lives.<br><br>✨ Thank you for visiting my GitHub profile, and I look forward to exploring the limitless possibilities of technology together!<br>
 
 
 ## 🌐 Socials:
