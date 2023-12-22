@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Software Developer
+Hello, Welcome!
 
 
 ## 🌐 Socials:
