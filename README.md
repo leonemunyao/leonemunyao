@@ -1,6 +1,7 @@
 
  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=leonemunyao&theme=algolia&hide_border=false&include_all_commits=false&count_private=true)<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leonemunyao&show_icons=true&theme=gotham" alt="leonemunyao" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leonemunyao&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leonemunyao&theme=algolia&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
