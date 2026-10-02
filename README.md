@@ -8,11 +8,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=leonemunyao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)<br./>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
+![](https://github-contributor-stats.vercel.app/api?username=leonemunyao&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=leonemunyao&icon=0&color=1)](https://visitcount.itsvg.in)
