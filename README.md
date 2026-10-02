@@ -1,6 +1,6 @@
 
  # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=leonemunyao&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage)<br/>
+![](https://github-readme-stats.vercel.app/api?username=leonemunyao&theme=algolia&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged_percentage)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=leonemunyao&theme=algolia&hide_border=false)<br/>
 
